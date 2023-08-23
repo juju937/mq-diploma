@@ -873,6 +873,7 @@ a {
 @media screen and (max-width: 640px) {
     .welcome {
         padding-top: 30px;
+        padding-bottom: 218px;
         background-image: url(../images/banner-mobile.jpg);
     }
     .container {
