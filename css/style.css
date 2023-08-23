@@ -911,12 +911,13 @@ a {
     }
     .main {
         width: 100%;
+        min-width: 0;
     }
     .main-article-pic {
-        min-width: 100%;
+        width: 100%;
     }
     .article-pic {
-        min-width: 100%;
+        width: 100%;
     }
     .main-article-content {
         min-width: 100%;
