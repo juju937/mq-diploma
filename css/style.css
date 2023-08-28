@@ -919,6 +919,9 @@ a {
     .main-name {
         font-size: 16px;
     }
+    .trend-article-content {
+        width: 100%;
+    }
     .page {
         margin-top: 44px;
         margin-bottom: 44px;
